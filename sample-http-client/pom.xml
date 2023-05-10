@@ -36,6 +36,12 @@
 <!--            <artifactId>httpasyncclient</artifactId>-->
 <!--            <version>4.1.5</version>-->
 <!--        </dependency>-->
+
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>4.10.0</version>
+        </dependency>
         <dependency>
             <groupId>org.wso2.orbit.org.apache.httpcomponents</groupId>
             <artifactId>httpasyncclient</artifactId>
