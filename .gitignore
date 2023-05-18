@@ -3,3 +3,5 @@
 *.key
 *.csr
 .idea
+
+/target
